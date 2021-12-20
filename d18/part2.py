@@ -1,4 +1,3 @@
-from enum import Flag
 import math
 from os import cpu_count
 import re
